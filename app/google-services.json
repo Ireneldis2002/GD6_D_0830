@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241968206126",
+    "project_id": "gd6-d-10830",
+    "storage_bucket": "gd6-d-10830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241968206126:android:0fdf1e6a52b30d46356abf",
+        "android_client_info": {
+          "package_name": "com.fires.gd6_d_0830"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241968206126-lnehdfq2792r6mahab89io89elsvtndp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDharHvAjsUALH7qETV7w4qE1KTFNjtXuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241968206126-lnehdfq2792r6mahab89io89elsvtndp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
